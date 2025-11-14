@@ -1,0 +1,7 @@
+langchain_core
+langchain_community
+chromadb
+langchain_groq
+sentence-transformers>=2.2.2
+langchain_ollama
+ollama
